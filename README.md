@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, sou o Breno 👋</h1>
-  <p><strong>Desenvolvedor Júnior | Indie Hacker | Entusiasta Python & Autodidata</strong></p>
+  <p><strong>Entusiasta Python & Autodidata</strong></p>
   <p>Construindo utilitários enxutos para Windows, automações práticas e transformando ideias de software em produtos reais.</p>
 
   <p>
@@ -22,7 +22,6 @@
 
 ### 💡 Filosofia & Aprendizado
 
-- 🛠️ **Indie Hacker:** Foco no ciclo ágil de validação e entrega de ponta a ponta, da arquitetura de baixo nível até landing page, distribuição e checkout.
 - 🧠 **Autodidata:** Evolução contínua orientada à resolução de problemas práticos, automação de rotinas e exploração de como o sistema operacional funciona por baixo dos panos.
 - 🐍 **Python além dos scripts:** Aplicações desktop nativas, leves e integradas à Win32 API.
 
