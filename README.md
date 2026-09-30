@@ -1,29 +1,13 @@
 <div align="center">
-  <h1>Olá, sou o Breno 👋</h1>
-  <p><strong>Entusiasta Python & Autodidata</strong></p>
-  <p>Construindo utilitários enxutos para Windows, automações práticas e transformando ideias de software em produtos reais.</p>
+  <h1>Olá, me chamam de Breno 👋</h1>
 
-  <p>
-    <a href="https://usb-screamer.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Project-UsbScreamer-10B981?style=for-the-badge&logo=windows&logoColor=white" alt="UsbScreamer" />
-    </a>
-    <a href="https://github.com/brenolab-py/UsbScreamer" target="_blank">
-      <img src="https://img.shields.io/badge/C%C3%B3digo--fonte-MIT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código-fonte (MIT)" />
-    </a>
-    <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.13" />
-    <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />
-    <a href="https://www.tiktok.com/@___brenos" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-@___brenos-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-    </a>
-  </p>
-</div>
-
----
+  ---
 
 ### 💡 Filosofia & Aprendizado
 
-- 🧠 **Autodidata:** Evolução contínua orientada à resolução de problemas práticos, automação de rotinas e exploração de como o sistema operacional funciona por baixo dos panos.
-- 🐍 **Python além dos scripts:** Aplicações desktop nativas, leves e integradas à Win32 API.
+* 🧠 **Autodidata:** Aprendizado na prática, movido principalmente pela curiosidade e pela vontade de entender como as coisas funcionam. Venho explorando Python para resolver problemas reais, automatizar pequenas rotinas e, ocasionalmente, criar soluções para problemas que eu mesmo inventei.
+
+* 🐍 **Python além dos scripts:** Explorando o desenvolvimento de aplicações desktop para Windows, incluindo interfaces gráficas, integração com a Win32 API e aplicações leves. Ainda estou aprendendo, então cada projeto costuma ensinar tanto sobre programação quanto sobre o motivo de certas coisas simplesmente... não funcionarem.
 
 ---
 
